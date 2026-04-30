@@ -10,8 +10,6 @@
 | | | | |
 | Akali | Star Guardian Akali | `84061` | 6 |
 | | | | |
-| Aphelios | Prestige Spirit Blossom Springs Aphelios | `523040` | — |
-| | | | |
 | Ashe | High Noon Ashe | `22017` | 5 |
 | | | | |
 | Caitlyn | Pulsefire Caitlyn | `51011` | 1 |
